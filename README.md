@@ -1,6 +1,6 @@
-# Hi, I’m Ashish 👋
+# Hi there, 👋
 
-I’m a Product Manager building AI agents, copilots, and workflow automation products.
+I’m a AI Product Manager building AI agents, copilots, and workflow automation products.
 
 My work sits at the intersection of product strategy, user experience, and hands-on AI prototyping. I’m especially interested in designing intelligent workflows that solve real business problems and can be tested, deployed, and scaled.
 
